@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wei(Arki) Wang</h1>
+<h2 align="center">Hi 👋, I'm Wei(Arki) Wang</h2>
 <h3 align="left">A experienced full-stack web developer from Canada</h3>
 
 - 💬 Ask me about **Java, python, react, vue, aws...**
